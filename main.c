@@ -2,8 +2,10 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdbool.h>
-#include "linked_func.h"
+
 #include "general.h"
+#include "linked_func.h"
+
 
 int main()
 {

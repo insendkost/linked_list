@@ -1,8 +1,9 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
-#include "linked_func.h"
 #include "general.h"
+#include "linked_func.h"
+
 #include "insert_functions.h"
 //
 

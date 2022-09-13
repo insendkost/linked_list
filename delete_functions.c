@@ -2,8 +2,9 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "linked_func.h"
 #include "general.h"
+#include "linked_func.h"
+
 #include "delete_functions.h"
 
 void deleteFromPosition(single_node** head_ref, int key)

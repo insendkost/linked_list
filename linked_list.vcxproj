@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="delete_functions.c" />
+    <ClCompile Include="delete_functions.c">
+      <DeploymentContent>false</DeploymentContent>
+    </ClCompile>
     <ClCompile Include="general.c" />
     <ClCompile Include="insert_functions.c" />
     <ClCompile Include="linked_func.c" />
